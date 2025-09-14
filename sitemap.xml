@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Racine -->
   <url><loc>https://www.maths974.fr/</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.maths974.fr/plan-du-site</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <!-- Ajoute 1 bloc <url>…</url> par page publique -->
+
+  <!-- Pages principales -->
+  <url><loc>https://www.maths974.fr/accueil</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.maths974.fr/association-maths974</loc><lastmod>2025-09-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.maths974.fr/packs-premium</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.maths974.fr/guides-de-survie</loc><lastmod>2025-09-14</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.maths974.fr/rapido974</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.maths974.fr/automaths974</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.maths974.fr/s%C3%A9quences-de-travail</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.maths974.fr/qcm-en-ligne</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.maths974.fr/iremi</loc><lastmod>2025-09-14</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.maths974.fr/ressources-institutionnelles</loc><lastmod>2025-09-14</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.maths974.fr/plan-du-site</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+
+  <!-- RAPIDO974 par niveau -->
+  <url><loc>https://www.maths974.fr/rapido974/cm1-rapido</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/rapido974/cm2-rapido</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/rapido974/6%C3%A8me-rapido</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/rapido974/5%C3%A8me-rapido</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/rapido974/4%C3%A8me-rapido</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/rapido974/3%C3%A8me-rapido</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+
+  <!-- AUTOMATHS974 par niveau -->
+  <url><loc>https://www.maths974.fr/automaths974/cm1-automaths</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/automaths974/cm2-automaths</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/automaths974/6e-automaths</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/automaths974/5e-automaths</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/automaths974/4e-automaths</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/automaths974/3%C3%A8me-automaths</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+
+  <!-- Séquences de travail par niveau -->
+  <url><loc>https://www.maths974.fr/s%C3%A9quences-de-travail/6%C3%A8me-sdt</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/s%C3%A9quences-de-travail/5%C3%A8me-sdt</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/s%C3%A9quences-de-travail/4%C3%A8me-sdt</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.maths974.fr/s%C3%A9quences-de-travail/3%C3%A8me-sdt</loc><lastmod>2025-09-14</lastmod><changefreq>weekly</changefreq></url>
+
+  <!-- Légal -->
+  <url><loc>https://www.maths974.fr/mentions-l%C3%A9gales</loc><lastmod>2025-09-14</lastmod><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://www.maths974.fr/conditions-g%C3%A9n%C3%A9rales-de-ventes</loc><lastmod>2025-09-14</lastmod><changefreq>yearly</changefreq><priority>0.2</priority></url>
 </urlset>
